@@ -1,0 +1,1 @@
+# maven-diffcover-test
